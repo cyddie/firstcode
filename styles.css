@@ -1,0 +1,50 @@
+body { 
+  background-color: #F2D0E5;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin: 30px 0;
+  font-size: 24px;
+  font-style: oblique;
+}
+
+h1, h3, p {
+  font-family: helvetica;
+  text-align: center;
+  color: #E150C9
+}
+
+h3 {
+  font-size: 18px;
+  padding: 5px;
+
+}
+
+table .tag {
+  font-weight: bold;
+  color: #E150C9;
+}
+
+table {
+  font-size: 15px;
+  font-family: helvetica;
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 600px;
+}
+
+table, th, td {
+  border: 1px solid #E150C9;
+}
+
+th {
+  text-align: left;
+  background-color: #E150C9;
+  color: white;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
